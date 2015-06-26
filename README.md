@@ -33,8 +33,8 @@ You can also execute this command from terminal, if you want. In both cases, it 
 
 Resources
 ---------
-- Official website: http://www.r-project.org/
-- Downloads, Manuals, etc. (Polish server): http://r.meteo.uni.wroc.pl/
-- Manuals: http://r.meteo.uni.wroc.pl/manuals.html
-- http://www.cyclismo.org/tutorial/R/
-- http://tryr.codeschool.com/
+- [Official website](http://www.r-project.org/)
+- [Downloads, Manuals, Journal, FAQ, etc.](http://r.meteo.uni.wroc.pl/)
+- [Manuals](http://r.meteo.uni.wroc.pl/manuals.html)
+- [Tutorial at cyclismo.com](http://www.cyclismo.org/tutorial/R/)
+- [Interactive tutorial on codeschool.com](http://tryr.codeschool.com/)
