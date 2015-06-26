@@ -46,3 +46,4 @@ Resources
 - [Data Camp](https://www.datacamp.com/)
 - [Introduction to Programming in R](https://www.teamleada.com/tutorials/introduction-to-statistical-programming-in-r)
 - [Beginner's guide to R](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)
+- [Advanced R](http://adv-r.had.co.nz/)
