@@ -43,3 +43,4 @@ Resources
 - [Manuals](http://r.meteo.uni.wroc.pl/manuals.html)
 - [Tutorial at cyclismo.com](http://www.cyclismo.org/tutorial/R/)
 - [Interactive tutorial at codeschool.com](http://tryr.codeschool.com/)
+- [Data Camp](https://www.datacamp.com/)
