@@ -31,6 +31,11 @@ Next, you can place the following contents in `hello.sh` file:
 
 You can also execute this command from terminal, if you want. In both cases, it will execute R script.
 
+IDE
+---
+
+[R Studio](http://www.rstudio.com/)
+
 Resources
 ---------
 - [Official website](http://www.r-project.org/)
