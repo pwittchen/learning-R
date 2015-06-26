@@ -42,4 +42,4 @@ Resources
 - [Downloads, Manuals, Journal, FAQ, etc.](http://r.meteo.uni.wroc.pl/)
 - [Manuals](http://r.meteo.uni.wroc.pl/manuals.html)
 - [Tutorial at cyclismo.com](http://www.cyclismo.org/tutorial/R/)
-- [Interactive tutorial on codeschool.com](http://tryr.codeschool.com/)
+- [Interactive tutorial at codeschool.com](http://tryr.codeschool.com/)
