@@ -39,9 +39,9 @@ IDE
 ### Installation of R Studio on Linux
 
 ```
-wget http://download1.rstudio.org/rstudio-0.99.451-i386.deb
-sudo dpkg -i rstudio-0.99.451-i386.deb
-sudo rm rstudio-0.99.447-i386.deb
+wget http://download1.rstudio.org/rstudio-0.98.1062-amd64.deb
+sudo dpkg -i *.deb
+sudo rm *.deb
 ```
 
 Resources
