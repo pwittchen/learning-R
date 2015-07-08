@@ -36,11 +36,6 @@ IDE
 
 [R Studio](http://www.rstudio.com/)
 
-R in the web
-------------
-
-[Shiny - a web application framework for R](http://shiny.rstudio.com/)
-
 ### Installation of R Studio on Linux
 
 ```
@@ -48,6 +43,11 @@ wget http://download1.rstudio.org/rstudio-0.98.1062-amd64.deb
 sudo dpkg -i *.deb
 sudo rm *.deb
 ```
+
+R in the web
+------------
+
+[Shiny - a web application framework for R](http://shiny.rstudio.com/)
 
 Resources
 ---------
