@@ -36,6 +36,11 @@ IDE
 
 [R Studio](http://www.rstudio.com/)
 
+R in the web
+------------
+
+[Shiny - a web application framework for R](http://shiny.rstudio.com/)
+
 ### Installation of R Studio on Linux
 
 ```
