@@ -25,11 +25,9 @@ You can define the `hello.R` file contents as follows:
 "Hello World in R!"
 ```
 
-Next, you can place the following contents in `hello.sh` file:
+Now you can run the following command in terminal to execute the script:
 
-`Rscript ./hello.R`
-
-You can also execute this command from terminal, if you want. In both cases, it will execute R script.
+`./hello.R`
 
 IDE
 ---
