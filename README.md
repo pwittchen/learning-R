@@ -60,3 +60,5 @@ Resources
 - [Introduction to Programming in R](https://www.teamleada.com/tutorials/introduction-to-statistical-programming-in-r)
 - [Beginner's guide to R](http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html)
 - [Advanced R](http://adv-r.had.co.nz/)
+- [Programowanie w języku R - książka PWN [PL]](http://rksiazka.rexamine.com/)
+- [Programowanie w języku R - materiały uzupełniające [PL]](https://github.com/gagolews/Programowanie_w_jezyku_R)
